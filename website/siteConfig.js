@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'karina-osmanova-8544a7249',
-        twitter: 'do not have one lol',
+        twitter: 'dontusetwitter',
         github: 'kmosmanova',
     },
 
